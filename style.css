@@ -58,4 +58,26 @@ ul {
 .cv-btn:hover {
   background: #e9ecef;
 }
+@media (max-width: 768px) {
+  header {
+    padding: 30px 15px;
+  }
+
+  h1 {
+    font-size: 26px;
+  }
+
+  .container {
+    padding: 10px;
+  }
+
+  section {
+    padding: 15px;
+  }
+
+  .project img {
+    width: 100%;
+  }
+}
+
 
